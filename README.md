@@ -11,3 +11,12 @@
 [![Unit Testing - Unity](https://github.com/prathameshpatil505/Stepin_Scientific-Calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/prathameshpatil505/Stepin_Scientific-Calculator/actions/workflows/unity.yml)
 [![Code Quality - Static Code - Cppcheck](https://github.com/prathameshpatil505/Stepin_Scientific-Calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prathameshpatil505/Stepin_Scientific-Calculator/actions/workflows/cppcheck.yml)
 [![Contribution Check - Git Inspector](https://github.com/prathameshpatil505/Stepin_Scientific-Calculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prathameshpatil505/Stepin_Scientific-Calculator/actions/workflows/gitinspector.yml)
+
+# Folder Structure
+|Folder        |Description |
+|-------------|-----------|
+|1.`Requirement`|System detailing requirements|
+|2.`Architeture`|Behaviour,Structure,Flowchart|
+|3.`Implementation`|All code and documentation|
+|4.`TestPlanAndOutput`|Output of Code|
+|5.`ImageOfOutput`|Screenshot of Outpu
