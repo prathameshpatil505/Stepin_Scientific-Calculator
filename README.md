@@ -10,3 +10,4 @@
 
 [![Unit Testing - Unity](https://github.com/prathameshpatil505/Stepin_Scientific-Calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/prathameshpatil505/Stepin_Scientific-Calculator/actions/workflows/unity.yml)
 [![Code Quality - Static Code - Cppcheck](https://github.com/prathameshpatil505/Stepin_Scientific-Calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prathameshpatil505/Stepin_Scientific-Calculator/actions/workflows/cppcheck.yml)
+[![Contribution Check - Git Inspector](https://github.com/prathameshpatil505/Stepin_Scientific-Calculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prathameshpatil505/Stepin_Scientific-Calculator/actions/workflows/gitinspector.yml)
